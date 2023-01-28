@@ -1,0 +1,9 @@
+export const dataPerMASQ = 500 * 1024 * 1024; // 500 MB
+export const twohundredsdataPerMASQ = 200 * 1024 * 1024; // 200 MB
+export const musicCapPerMin = 500 / 2.4; // 500 MB
+export const videoCapPerMin = 500 / 50; // 500 MB
+export const uploadSpeedLimit = 20;
+export const downloadSpeedLimit = 80;
+export const historyLimit = 2;
+export const suburbList = ['masqbeta1', 'masqbeta2', 'masqbeta3'];
+export const premiumTokenAmt = 2000;
